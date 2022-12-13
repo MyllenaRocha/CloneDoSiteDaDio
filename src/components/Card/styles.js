@@ -8,7 +8,7 @@ export const CardContainer = styled.div`
 `
 export const ImageBackground = styled.img`
     width: 100%;
-    height: 100px;
+    height: 180px;
 `
 export const Content = styled.div`
     width: 100%;
